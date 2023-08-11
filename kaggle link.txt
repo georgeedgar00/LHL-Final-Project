@@ -6,7 +6,7 @@ Roadblocks: no glassdoor api, tried scraping dat but too tedious. Instead found 
 
 Step 1 : data collection ^
 Step 2 : data cleaning ^
-Step 3 : exploratory data analysis
+Step 3 : exploratory data analysis ^
 Stpe 4 : model building
 step 5 : application of model
 step 6 : visualization 
